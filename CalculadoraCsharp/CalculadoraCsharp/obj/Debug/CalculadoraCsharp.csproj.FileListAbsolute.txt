@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\CalculadoraCsharp\CalculadoraCsharp\bin\Debug\CalculadoraCsharp.exe.config
+C:\Users\User\source\repos\CalculadoraCsharp\CalculadoraCsharp\bin\Debug\CalculadoraCsharp.exe
+C:\Users\User\source\repos\CalculadoraCsharp\CalculadoraCsharp\bin\Debug\CalculadoraCsharp.pdb
+C:\Users\User\source\repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\CalculadoraCsharp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\CalculadoraCsharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\CalculadoraCsharp.Form1.resources
+C:\Users\User\source\repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\CalculadoraCsharp.Properties.Resources.resources
+C:\Users\User\source\repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\CalculadoraCsharp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\CalculadoraCsharp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\CalculadoraCsharp.exe
+C:\Users\User\source\repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\CalculadoraCsharp.pdb
